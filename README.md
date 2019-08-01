@@ -3,6 +3,8 @@ A CPU simulator in Java - The final project for CS 140 Programming with Objects 
 
 The simulator can assemble files of its own mock assembly language into executable files, then run said files while showning the instructions being followed and the state of the simulated memory.
 
-![](simulator-sc.png)
+![](simulator-sc.PNG)
 
-*Run Mediator.java to start the program*
+*merge.pexe loaded into the simulator*
+
+*Run Mediator.java in the projectview package to start the program*
