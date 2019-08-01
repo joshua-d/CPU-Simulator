@@ -7,4 +7,4 @@ The simulator can assemble files of its own mock assembly language into executab
 
 *merge.pexe loaded into the simulator*
 
-*Run Mediator.java in the projectview package to start the program*
+Run Mediator.java in the projectview package to start the simulator.
